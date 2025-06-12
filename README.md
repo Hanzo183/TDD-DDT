@@ -1,5 +1,5 @@
 # Welcome to Math Utility Repository
-
+[![Math Utility Project (CI included) | © 2025 by minh luong](https://github.com/Hanzo183/TDD-DDT/actions/workflows/ci-script.yml/badge.svg)](https://github.com/Hanzo183/TDD-DDT/actions/workflows/ci-script.yml)
 ## You wil find in this repo the following stuff:
 
 * A Maven Java project to provide a Math library aka java.util.Math in JDK
